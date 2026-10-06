@@ -1,6 +1,6 @@
 # Sobre o Repositório
 
-Repositório pessoal dedicado aos meus estudos em Ciência de Dados, Inteligência Artificial e Neurocomputação.
+Repositório pessoal dedicado aos meus estudos profissionais - rumo à uma carreira em *Matemática Aplicada à Modelos Complexos de Inteligência Artificial*.
 
 Aqui registro resumos, exercícios, anotações e referências utilizadas ao longo da minha jornada de aprendizado.
 
@@ -29,11 +29,19 @@ Aqui registro resumos, exercícios, anotações e referências utilizadas ao lon
 
 ## Recursos e Referências 
 
-_**Artigos**_ 
+### Artigos
 
-_**Cursos**_ 
+### Cursos
 
-_**Livros**_ 
+- Introdução à Ciência de Dados / Jorge Poco, FGV. (Curso Gratuito)
+
+### Livros
+
+- *Pré-cálculo* / Valéria Zuma Medeiros (Coord). Edição: 2. ed. Publicação: São Paulo, SP: Cengage Learning, 2009.
+
+- *Bases Matemáticas* / Armando Caputi e Daniel Miranda. Versão 13. Santo André, SP: Universidade Federal do ABC, 2017
+
+- *Introdução a Python com aplicações de sistemas operacionais* / Fábio Augusto Procópio de Paiva, Givanaldo Rocha de Souza, João Maria Araújo do Nascimento, Rodrigo Siqueira Martins. Publicação: Natal, RN: IFRN, 2019.
 
 --- 
 

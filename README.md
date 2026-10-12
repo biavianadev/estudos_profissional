@@ -1,10 +1,13 @@
 # Sobre o Repositório
 
-Repositório pessoal dedicado aos meus estudos profissionais - rumo à uma carreira em *Matemática Aplicada à Modelos Complexos de Inteligência Artificial*.
+Repositório pessoal dedicado ao registro e à organização dos meus estudos em Matemática, Computação e Inteligência Artificial.
 
-Aqui registro resumos, exercícios, anotações e referências utilizadas ao longo da minha jornada de aprendizado.
+Meu objetivo é construir uma formação sólida em matemática e computação, com foco na aplicação de conceitos matemáticos ao desenvolvimento e à compreensão de modelos de inteligência artificial e sistemas complexos.
+
+Aqui registro anotações, resumos, exercícios, implementações e referências utilizadas ao longo da minha trajetória acadêmica e profissional.
 
 --- 
+
 ## Conteúdo 
 
 **01 -** Matemática
@@ -13,11 +16,7 @@ Aqui registro resumos, exercícios, anotações e referências utilizadas ao lon
 
 **03 -** Inteligência Artificial
 
-**04 -** Machine Learning
-
-**05 -** Deep Learning
-
-**06 -** Neurocomputação
+**04 -**  Neurocomputação
 
 ### Extras 
 
@@ -33,16 +32,15 @@ Aqui registro resumos, exercícios, anotações e referências utilizadas ao lon
 
 ### Cursos
 
-- *Introdução à Ciência de Dados* / Jorge Poco, FGV. (Curso Gratuito)
+- POCO, Jorge. ***Introdução à Ciência de Dados***. FGV. Curso gratuito.
 
 ### Livros
 
-- *Pré-cálculo* / Valéria Zuma Medeiros (Coord). Edição: 2. ed. Publicação: São Paulo, SP: Cengage Learning, 2009.
+- MEDEIROS, Valéria Zuma (coord.). ***Pré-cálculo***. 2. ed. São Paulo: Cengage Learning, 2009.
 
-- *Bases Matemáticas* / Armando Caputi e Daniel Miranda. Versão 13. Santo André, SP: Universidade Federal do ABC, 2017.
+- CAPUTI, Armando; MIRANDA, Daniel. ***Bases Matemáticas***. Versão 13. Santo André: Universidade Federal do ABC, 2017.
 
-- *Introdução a Python com aplicações de sistemas operacionais* / Fábio Augusto Procópio de Paiva, Givanaldo Rocha de Souza, João Maria Araújo do Nascimento, Rodrigo Siqueira Martins. Publicação: Natal, RN: IFRN, 2019.
-
+- PAIVA, Fábio Augusto Procópio de et al. ***Introdução a Python com aplicações de sistemas operacionais***. Natal: IFRN, 2019.
 --- 
 
 ## Status 

@@ -33,13 +33,13 @@ Aqui registro resumos, exercícios, anotações e referências utilizadas ao lon
 
 ### Cursos
 
-- Introdução à Ciência de Dados / Jorge Poco, FGV. (Curso Gratuito)
+- *Introdução à Ciência de Dados* / Jorge Poco, FGV. (Curso Gratuito)
 
 ### Livros
 
 - *Pré-cálculo* / Valéria Zuma Medeiros (Coord). Edição: 2. ed. Publicação: São Paulo, SP: Cengage Learning, 2009.
 
-- *Bases Matemáticas* / Armando Caputi e Daniel Miranda. Versão 13. Santo André, SP: Universidade Federal do ABC, 2017
+- *Bases Matemáticas* / Armando Caputi e Daniel Miranda. Versão 13. Santo André, SP: Universidade Federal do ABC, 2017.
 
 - *Introdução a Python com aplicações de sistemas operacionais* / Fábio Augusto Procópio de Paiva, Givanaldo Rocha de Souza, João Maria Araújo do Nascimento, Rodrigo Siqueira Martins. Publicação: Natal, RN: IFRN, 2019.
 

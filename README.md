@@ -10,39 +10,44 @@ Aqui registro anotações, resumos, exercícios, implementações e referências
 
 ## Conteúdo 
 
-**01 -** Matemática
+01 - Matemática
 
-**02 -** Programação
+02 - Programação
 
-**03 -** Inteligência Artificial
+03 - Inteligência Artificial
 
-**04 -**  Neurocomputação
+04 -  Neurocomputação
 
-### Extras 
+### <span style="color: red;">Extras</span>
 
-**01 -** Conceitos Básicos de Ciência de Dados 
+01 - Conceitos Básicos de Ciência de Dados 
 
-**02 -** Git e GitHub
-
---- 
+---
 
 ## Recursos e Referências 
 
 ### Artigos
 
+__
+
 ### Cursos
 
-- POCO, Jorge. ***Introdução à Ciência de Dados***. FGV. Curso gratuito.
+- POCO, Jorge. *Introdução à Ciência de Dados*. FGV. Curso gratuito.
 
 ### Livros
 
-- MEDEIROS, Valéria Zuma (coord.). ***Pré-cálculo***. 2. ed. São Paulo: Cengage Learning, 2009.
+- MEDEIROS, Valéria Zuma (coord.). *Pré-cálculo*. 2. ed. São Paulo: Cengage Learning, 2009.
 
-- CAPUTI, Armando; MIRANDA, Daniel. ***Bases Matemáticas***. Versão 13. Santo André: Universidade Federal do ABC, 2017.
+- CAPUTI, Armando; MIRANDA, Daniel. *Bases Matemáticas*. Versão 13. Santo André: Universidade Federal do ABC, 2017.
 
-- PAIVA, Fábio Augusto Procópio de et al. ***Introdução a Python com aplicações de sistemas operacionais***. Natal: IFRN, 2019.
+- PAIVA, Fábio Augusto Procópio de et al. *Introdução a Python com aplicações de sistemas operacionais*. Natal: IFRN, 2019.
+
+--- 
+
+## Conheça os meus projetos
+
 --- 
 
 ## Status 
 
-`Em constante atualização`
+`🚧 Em constante atualização`
